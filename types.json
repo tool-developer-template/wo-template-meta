@@ -1,6 +1,10 @@
 {
-  "wx":{
-    "repository":"https://github.com/tool-developer-template/wo-template-wx.git",
-    "description":"微信小程序"
-  }
+ "wx": {
+  "repository": "https://github.com/tool-developer-template/wo-template-wx.git",
+  "description": "微信小程序"
+ },
+ "te": {
+  "repository": "https://github.com/tool-developer-template/wo-template-te.git",
+  "description": "test"
+ }
 }
