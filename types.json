@@ -1,1 +1,6 @@
-undefined
+{
+  "wx":{
+    "repository":"https://github.com/tool-developer-template/wo-template-wx.git",
+    "description":"微信小程序"
+  }
+}
