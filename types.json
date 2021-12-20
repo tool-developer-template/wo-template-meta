@@ -1,10 +1,10 @@
 {
  "wx": {
-  "repository": "https://gitee.com/tool-developer/wo-template-wx.git",
+  "repository": "https://github.com/tool-developer-template/wo-template-wx.git",
   "description": "微信小程序"
  },
  "node-server": {
-  "repository": "https://gitee.com/tool-developer/wo-template-node-server.git",
+  "repository": "https://github.com/tool-developer-template/wo-template-node-server.git",
   "description": "node egg server"
  }
 }
