@@ -7,6 +7,10 @@
   "repository": "https://github.com/tool-developer-template/wo-template-node-server.git",
   "description": "node egg server"
  },
+ "node-no-db-server": {
+  "repository": "https://github.com/tool-developer-template/wo-template-node-no-db-server.git",
+  "description": "node egg no db server"
+ },
  "ms-vite-react": {
   "repository": "https://github.com/tool-developer-template/wo-template-vite-react.git",
   "description": "vite react management system"
